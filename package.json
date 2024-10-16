@@ -1,0 +1,17 @@
+{
+  "name": "fiveaproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "querystring": "^0.2.1",
+    "string_decoder": "^1.3.0"
+  }
+}
